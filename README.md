@@ -100,7 +100,7 @@ All contributions are welcome, from code to documentation to graphics to design 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/shabinder)
 
 ### Want to discuss? 💬
-Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/Shabinder/SpotiFlyer/discussions).
+Have any questions, doubts or want to present your opinions, views? You're always welcomed by us. You can [start discussions](https://github.com/Shabinder/SpotiFlyer/discussions).
 
 ### Todos 📄
  - Write **Tests**.
